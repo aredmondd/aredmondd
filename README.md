@@ -6,7 +6,7 @@ I'm a student-athlete at [Florida Southern College](https://www.flsouthern.edu/)
 - 🧠 I'm currently learning [React](https://www.react.dev/), [Japanese](https://www.duolingo.com/profile/aidenredmond), and [Obsidian](https://obsidian.md/).
 - 💬 Ask me about Laravel, Figma, or indie video games.
 - ☎️ How to reach me: aidenredmondd@gmail.com
-- ⚡️ Fun fact: I usually run more than 75 miles a week, I love [KAWS](https://kawsone.com/), the [Cleveland Cavaliers](https://www.nba.com/cavaliers/), collecting manga, and organizing things. 
+- ⚡️ Fun fact: I usually run 75+ miles a week, I love [KAWS](https://kawsone.com/), the [Cleveland Cavaliers](https://www.nba.com/cavaliers/), collecting manga, and organizing things. 
 
 <!--
 **aredmondd/aredmondd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
