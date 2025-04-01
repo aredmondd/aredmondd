@@ -1,4 +1,5 @@
-hi, i'm aiden. i'm a student-athlete at [Florida Southern College](https://www.flsouthern.edu/) pursuing a B.S. in Computer Science & a minor in Graphic Design.
+hi, i'm aiden. i'm a student-athlete at [florida southern](https://www.flsouthern.edu/) pursuing a B.S. in computer science & a minor in graphic design.
+<br />
 i'm currently learning [rust](https://www.rust-lang.org/), and working on [project-donatello](https://github.com/aredmondd/project-donatello).
 <br />
 
