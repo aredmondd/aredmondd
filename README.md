@@ -2,8 +2,7 @@
 
 I'm a student-athlete at [Florida Southern College](https://www.flsouthern.edu/) pursuing a B.S. in Computer Science & a minor in Graphic Design.
 
-- 👨🏽‍💻 I'm currently working on [aidenredmond.com](https://www.aidenredmond.com), which my personal website
-- 🧠 I'm currently learning [Rust 🦀](https://www.rust-lang.org/).
+🧠 I'm currently learning [Rust 🦀](https://www.rust-lang.org/).
 
 <br />
 
