@@ -1,9 +1,6 @@
 ## Hi 👋 I'm Aiden Redmond.
 
 I'm a student-athlete at [Florida Southern College](https://www.flsouthern.edu/) pursuing a B.S. in Computer Science & a minor in Graphic Design.
-
-🧠 I'm currently learning [Rust 🦀](https://www.rust-lang.org/).
-
 <br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
