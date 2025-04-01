@@ -1,6 +1,5 @@
-## Hi 👋 I'm Aiden Redmond.
-
-I'm a student-athlete at [Florida Southern College](https://www.flsouthern.edu/) pursuing a B.S. in Computer Science & a minor in Graphic Design.
+hi, i'm aiden. i'm a student-athlete at [Florida Southern College](https://www.flsouthern.edu/) pursuing a B.S. in Computer Science & a minor in Graphic Design.
+i'm currently learning [rust](https://www.rust-lang.org/), and working on [project-donatello](https://github.com/aredmondd/project-donatello).
 <br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
